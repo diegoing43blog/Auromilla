@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Blog | Ing. Diego Dell’Erba</title>
+  <link>/blog/</link>
+  <description>Fibre ottiche, Digital Twin, SHM, protesica intelligente.</description>
+  
+  <item>
+    <title>Guida FBG per il monitoraggio strutturale</title>
+    <link>/blog/posts/fibre-ottiche-fbg.html</link>
+    <guid>/blog/posts/fibre-ottiche-fbg.html</guid>
+    <pubDate>2025-08-28T05:58:15Z</pubDate>
+    <description>Principi e casi studio con griglie FBG in edilizia e infrastrutture.</description>
+  </item>
+  <item>
+    <title>Sistema Edilizio Grisciano: SHM integrato</title>
+    <link>/blog/posts/sistema-edilizio-grisciano.html</link>
+    <guid>/blog/posts/sistema-edilizio-grisciano.html</guid>
+    <pubDate>2025-08-28T05:58:15Z</pubDate>
+    <description>Architettura sensoristica, FEM e manutenzione predittiva per Sant’Agata e Canonica.</description>
+  </item>
+  <item>
+    <title>Protesi ortopedica sensorizzata con FBG e AI</title>
+    <link>/blog/posts/protesi-ortopedica-intelligente.html</link>
+    <guid>/blog/posts/protesi-ortopedica-intelligente.html</guid>
+    <pubDate>2025-08-28T05:58:15Z</pubDate>
+    <description>Digital Twin paziente-specifico, controllo adattivo e predittiva.</description>
+  </item>
+</channel>
+</rss>
